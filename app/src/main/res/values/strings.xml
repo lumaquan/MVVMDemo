@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+    <string name="msj_cargando">Cargando...</string>
+</resources>
